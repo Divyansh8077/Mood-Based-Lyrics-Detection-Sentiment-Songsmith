@@ -54,3 +54,66 @@ Text is preprocessed using NLP techniques
 ML model predicts the emotional mood
 
 Predicted mood is returned and displayed
+
+<img width="775" height="439" alt="image" src="https://github.com/user-attachments/assets/ee5c9f0d-2262-4f4c-aaeb-b0a7b837ef12" />
+
+<H3>▶️ Installation & Setup</H3>
+Prerequisites
+
+Python 3.8+
+
+pip
+
+Steps to Run
+git clone <repository-link>
+cd mood-based-lyrics-detection
+pip install -r requirements.txt
+python app.py
+
+<H3>📊 Output</H3>
+
+The system displays the predicted emotional mood of the lyrics entered by the user, enabling emotion-aware analysis and recommendations.
+<img width="1905" height="902" alt="image" src="https://github.com/user-attachments/assets/a5aaea62-67aa-48ce-b0f8-d110f1125bb6" />
+<img width="1878" height="896" alt="image" src="https://github.com/user-attachments/assets/e35a45d1-9afd-4c47-b0af-8c25b8286469" />
+<img width="1912" height="960" alt="image" src="https://github.com/user-attachments/assets/62aa8831-75e5-4eb0-a992-5cbe4eaba414" />
+<img width="1798" height="898" alt="image" src="https://github.com/user-attachments/assets/35607e15-9f60-40ea-8804-e68f63b10e5c" />
+
+
+<H3>📌 Use Cases</H3>
+
+Mood-based music recommendation systems
+
+NLP emotion detection demonstrations
+
+Full-stack ML learning and deployment projects
+
+<H3>🧠 Learning Outcomes</H3>
+
+End-to-end ML pipeline development
+
+NLP-based text classification
+
+Flask backend and REST API development
+
+Frontend–backend integration
+
+Real-world data handling and deployment concepts
+
+<H3>🚧 Limitations</H3>
+
+Classification depends only on lyrics (audio features not included)
+
+Performance depends on dataset quality and size
+
+<H3>🔮 Future Enhancements</H3>
+
+Add audio feature-based mood detection
+
+Deploy the application on cloud platforms
+
+Improve model accuracy using deep learning
+
+Add user-based recommendation features
+
+
+
