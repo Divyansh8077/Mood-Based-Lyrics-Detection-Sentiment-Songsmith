@@ -1,4 +1,4 @@
-🎶 Mood-Based Lyrics Detection System
+<H1>🎶 Mood-Based Lyrics Detection System</H1>
 📖 Introduction
 
 The Mood-Based Lyrics Detection System is a full-stack Machine Learning application that analyzes song lyrics and predicts the emotional mood expressed in the text using Natural Language Processing (NLP). The project demonstrates the integration of an ML model with a web-based frontend and a Flask-powered backend, providing real-time mood predictions through a clean and interactive interface.
